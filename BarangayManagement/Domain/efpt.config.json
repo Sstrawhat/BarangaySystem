@@ -1,0 +1,70 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "TEST_DBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Domain",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 2,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[TemplateTable]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[maintenance].[EnumValues]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[maintenance].[Status]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[residence].[EducationalBackground]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[residence].[EmploymentInformation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[residence].[ResidentProfile]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[security].[UserAccount]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": true,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

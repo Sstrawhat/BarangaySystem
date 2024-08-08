@@ -1,0 +1,125 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.code-workspace
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+*.appx
+*.appxbundle
+*.appxupload
+*.builds
+*.gpstate
+*.ilk
+*.ipch
+*.iobj
+*.ipdb
+*.log
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sdf
+*.ilk
+*.tlog
+*.tmp
+*.log
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.vswp
+*.pfx
+*.publishsettings
+*.wpu
+*.wsp
+*.dotCover
+*.dotTrace
+
+# Web
+node_modules/
+jspm_packages/
+bower_components/
+
+# Package files
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+*.props
+*.targets
+.project.assets.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.njsproj
+
+# Entity Framework
+*.jfm
+*.edmx.diagram
+*.edmx.sql
+*.edmx.sql.sqlce
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.assets.json
+project.nuget.cache
+NuGet.Config
+NuGet.exe
+NuGetScratch/
+
+# Azure DevOps
+.env
+.vsts-ci.yml
+azure-pipelines.yml
+
+# Windows
+*.lnk
+*.bat
+*.cmd
+*.iso
+*.local
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Others
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.swp
+*.swo
+*.sln.docstates
+*.tmp
